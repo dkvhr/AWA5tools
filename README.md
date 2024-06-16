@@ -13,4 +13,4 @@ string into *awatisms*
   `python disasm.py output_file`
 
 ## Example
-![example_image](https://github.com/dkvhr/AWA5tools/img/example.png)
+![example_image](https://github.com/dkvhr/AWA5tools/blob/main/img/example.png?raw=true)
